@@ -1,5 +1,0 @@
-#lang racket
-
-(require "menu.rkt")
-
-(send menu show #t)
